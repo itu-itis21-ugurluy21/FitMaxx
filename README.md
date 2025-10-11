@@ -1,4 +1,4 @@
-# PhysiqueAI Privacy Policy
+# Fit Max Ai Privacy Policy
 
 **Effective Date:** **October 30, 2023**
 
