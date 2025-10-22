@@ -1,11 +1,11 @@
-# Fit Maxx Privacy Policy
+# FitMaxx Privacy Policy
 
 **Effective Date:** **October 30, 2023**
 
 ---
 
 ## 1. Introduction
-Welcome to **Fit Maxx**! This Privacy Policy explains how we handle your information when you use our mobile application. Your privacy is critically important to us. Our goal is to provide a powerful fitness analysis tool while respecting your data and privacy at every step.
+Welcome to **FitMaxx**! This Privacy Policy explains how we handle your information when you use our mobile application. Your privacy is critically important to us. Our goal is to provide a powerful fitness analysis tool while respecting your data and privacy at every step.
 
 This policy explains **what information we collect**, **why we need it**, and **how we use it** to provide our services.
 
