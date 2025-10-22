@@ -1,6 +1,6 @@
-# Fit Max Ai - Account and Data Deletion Policy
+# FitMaxx - Account and Data Deletion Policy
 
-We are committed to protecting your privacy and giving you control over your data. This document provides clear instructions on how you can request the deletion of your account and its associated data within the **[Your App Name]** application.
+We are committed to protecting your privacy and giving you control over your data. This document provides clear instructions on how you can request the deletion of your account and its associated data within the **FitMaxx** application.
 
 This process is designed to be simple and accessible directly from within the app, as required by the Google Play Store.
 
